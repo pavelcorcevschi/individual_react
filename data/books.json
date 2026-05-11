@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Евгений Онегин",
+    "author": "Александр Пушкин",
+    "year": 1833,
+    "category": "Художественная литература",
+    "status": "read",
+    "isFavorite": false,
+    "isRecentlyRead": true,
+    "description": "Роман в стихах о выборе, чувствах и светском обществе."
+  },
+  {
+    "id": 2,
+    "title": "Sapiens",
+    "author": "Юваль Ной Харари",
+    "year": 2011,
+    "category": "Научно-популярная литература",
+    "status": "to-read",
+    "isFavorite": false,
+    "isRecentlyRead": false,
+    "description": "Книга о развитии человечества от древности до современности."
+  },
+  {
+    "id": 3,
+    "title": "Краткая история времени",
+    "author": "Стивен Хокинг",
+    "year": 1988,
+    "category": "Наука",
+    "status": "read",
+    "isFavorite": true,
+    "isRecentlyRead": true,
+    "description": "Популярное объяснение космологии, времени и устройства Вселенной."
+  },
+  {
+    "id": 4,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "category": "Программирование",
+    "status": "to-read",
+    "isFavorite": true,
+    "isRecentlyRead": false,
+    "description": "Практическое руководство по написанию понятного и поддерживаемого кода."
+  }
+]
